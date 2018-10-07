@@ -43,31 +43,27 @@
 .dropdown:hover .dropbtn {background-color: #00CBFF} 
 
 h1{
-	margin: 0px;
+	margin: -10px;
 	
 }
 h2,h3{
-	margin: 0;
+	margin: 0px;
 	color: black;
 }
 
 a{
 	text-decoration: none;
-	
 }
-
 
 #header{
 	padding: 10px;
 	background-color: navy;
 	color: white;
 	text-align: center;
-	
 }
 body{
 	background-color: #55D7F8;
 	font-family: Helvetica, Cambria, Arial, sans-serif;
-	
 }
 #container{
 	background-color: white;
@@ -80,11 +76,12 @@ body{
 	padding-left: 2px;
 }
 #nav{
-	width: 180px;
-	float: left
+	width: 40px;
+	height: 40px;
+	
 }
 #main{
-	width: 600px;
+	width: 675px;
 	float: right;
 }
 #footer{

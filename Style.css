@@ -56,10 +56,12 @@ a{
 }
 
 #header{
+	
 	padding: 10px;
 	background-color: navy;
 	color: white;
 	text-align: center;
+	
 }
 body{
 	background-color: #55D7F8;
@@ -72,15 +74,16 @@ body{
 	margin-right: auto;
 }
 #content{
-	padding-top: 2px;
-	padding-left: 2px;
+	
 }
 #nav{
-	width: 40px;
-	height: 40px;
+	border:3px solid black;
+	width: auto;
+	height: auto;
 	
 }
 #main{
+	
 	width: 675px;
 	float: right;
 }
